@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `json-server server.json -p 3333 -d 2000`
+
+Open [http://localhost:3333](http://localhost:3333) to view data format json it in your browser.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
