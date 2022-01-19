@@ -17,6 +17,7 @@ You may also see any lint errors in the console.
 ### `json-server server.json -p 3333 -d 2000`
 
 Open [http://localhost:3333](http://localhost:3333) to view data format json it in your browser.
+* Delay 2 sec
 
 ### `npm test`
 
